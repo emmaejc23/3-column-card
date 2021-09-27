@@ -1,0 +1,39 @@
+h2 {
+    font-family: 'Big Shoulders Display', cursive; 
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+
+.bg-teal-800 {
+    background-color: #006971;
+}
+
+.bg-teal-900 {
+    background-color: #004140;
+}
+
+.text-teal-800 {
+    color: #006971;
+}
+
+.text-teal-900 {
+    color: #004140;
+}
+
+.lt-teal-bg:hover {
+    background-color: #006971;
+}
+
+.dk-teal-bg:hover {
+    background-color: #004140;
+}
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1rem;
+}
+
+button {
+    font-family: 'Lexend Deca' , sans-serif;
+    font-size: 1rem;
+}
